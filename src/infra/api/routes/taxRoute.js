@@ -12,7 +12,7 @@ const routes = new Router();
  *      '200':
  *        description: Obtém custo de chamada da api falemais
  *    parameters:
- *         - name: origin
+ *         - name: request
  *           in: body
  *           description:
  *           required: true
